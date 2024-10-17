@@ -6,6 +6,8 @@ This is example of a simple database management script that can be used to manag
 - [ ] Add more queries (select, update, delete)
 - [ ] Security checks while inserting data
 
+### See example calls in `app.php` or use the available commands:
+
 ## Available Commands
 
 - **insert**: Insert data into a table.
